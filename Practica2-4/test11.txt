@@ -1,0 +1,10 @@
+Codigo de c 
+//comentario sencillo
+
+/*este es un 
+comentario de varias 
+lineas*/
+
+/*hola*/
+
+//documento
